@@ -1,5 +1,5 @@
 # shopping-cart
-technologies used are vue and vuex
+technologies used are vue,vuex and bootstrap
 
 
 ## Project setup
