@@ -1,4 +1,6 @@
-# test
+# shopping-cart
+technologies used are vue and vuex
+
 
 ## Project setup
 ```
